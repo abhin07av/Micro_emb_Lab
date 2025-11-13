@@ -3,7 +3,7 @@
 2. Stepper motor: use an additional driver named: ULN2003A
 3. use 74LS47 bcd to 7 segment decoder in Keypad 
 ---
-## STM 32:
+## STM 32: (blink led)
 NOTE- for any extra dialog box asking Y/N choose Y
 1. launch it
 2. file-->new stm project
