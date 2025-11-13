@@ -2,7 +2,7 @@
 1. LCD name display: use PIC16f877a instead of pic16f84a, also change this microcontroller in the microC project settings 
 2. Stepper motor: use an additional driver named: ULN2003A
 3. use 74LS47 bcd to 7 segment decoder in Keypad 
-
+---
 ## STM 32:
 NOTE- for any extra dialog box asking Y/N choose Y
 1. launch it
@@ -18,3 +18,4 @@ NOTE- for any extra dialog box asking Y/N choose Y
 10. Connect Nucleo board with PC & press run in IDE
 11. Click OK in the Edit dialog box
 12. Press reset button the board
+---
